@@ -9,7 +9,7 @@ A powerful yet secure App to manage your Video Resolution. <img src="https://raw
 
 ### 🌍 **Select Language**
 
-| [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Italian Flag" width="30"> Guida in Italiano]() | [<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English Flag" width="30"> Guide in English]() |
+| [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" alt="Italian Flag" width="30"> Guida in Italiano](https://github.com/Shokkino-s-Upscaler-v2/Shokkino-UpscalerV2/blob/main/readme_IT.md) | [<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English Flag" width="30"> Guide in English](https://github.com/Shokkino-s-Upscaler-v2/Shokkino-UpscalerV2/blob/main/readme_eng.md) |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
